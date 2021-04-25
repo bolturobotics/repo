@@ -1,0 +1,56 @@
+Package: cppzmq
+Version: 0.1.1
+Architecture: arm64
+Maintainer: Boltu Robotics
+Installed-Size: 107
+Filename: ./cppzmq-0.1.1-Linux.deb
+Size: 19332
+MD5sum: 9edec6c668b85114a9fdfd80f487db69
+SHA1: e8906e33126edeb93d8b9b9173f9391265b90ddb
+SHA256: 9f409c6041650dc4ad194b90b8393e16ba9e4b56f90fed5d0b41c34264b35486
+Section: devel
+Priority: optional
+Description: cppzmq built using CMake
+
+Package: czmq
+Version: 0.1.1
+Architecture: arm64
+Maintainer: Boltu Robotics
+Installed-Size: 6452
+Filename: ./czmq-0.1.1-Linux.deb
+Size: 1059242
+MD5sum: 00f6474addcfb60c93bd30f8ab08d76e
+SHA1: 9705ba4dc8a49c7ba7947c7668e2762ef2b460cf
+SHA256: 9ae2828e8844cbb30a3400bb84e8a7304afa03970889cf4ed84e0e3775663216
+Section: devel
+Priority: optional
+Description: czmq built using CMake
+
+Package: gsl
+Version: 0.1.1
+Architecture: arm64
+Maintainer: Boltu Robotics
+Installed-Size: 127
+Filename: ./GSL-0.1.1-Linux.deb
+Size: 19854
+MD5sum: ffd5f46dff24d8af64d41379160dcbeb
+SHA1: c608c2f54fa2ed69b5ddaf653cc91c23ce386349
+SHA256: 14d9773ef233725bbb6f0a91a7810f65d6147fee5f2f8c31ee1ac4cdc61eeda5
+Section: devel
+Priority: optional
+Description: GSL built using CMake
+
+Package: zeromq
+Version: 0.1.1
+Architecture: arm64
+Maintainer: Boltu Robotics
+Installed-Size: 5742
+Filename: ./ZeroMQ-0.1.1-Linux.deb
+Size: 1052236
+MD5sum: 02a8e37225f73c16142051c3c092722a
+SHA1: d0c70378afecde4f6681f6202b004f29c8a2da8f
+SHA256: fe889f58572eadf293cca7225427719ff2e86d2afe6fecec9716c696c9bb5862
+Section: devel
+Priority: optional
+Description: ZeroMQ built using CMake
+
